@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Humphrey "CyberPsychiatrist"
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Full Stack Developer, ML Engineer, Data Anayst & Web 3.0 Tech Enthusiast
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Full Stack Developer, ML Engineer, Data Anayst & Web 3.0 Enthusiast
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer specializing in Web 3.0 technology solutions. I combine my technical expertise with a deep understanding of Analytical principles to create innovative digital platforms
+I'm a passionate Backend developer specializing in Web 3.0 technology solutions. I combine my technical expertise with a deep understanding of Analytical principles to create innovative digital platforms
 
 ### 🔭 Current Focus
 - Building **Hedges Care** - An AI-powered Plant Detector and NFT based platform
@@ -22,9 +22,9 @@ I'm a passionate full-stack developer specializing in Web 3.0 technology solutio
 - Creating user-friendly interfaces
 
 ### 🌱 Currently Learning
+- Web3 development with React,Typescript & HyperLedger Fabric
 - Advanced AI/ML techniques
 - Advanced Data Analytics
-- Web3 development with React,Typescript & Hardhat
 
 ---
 
