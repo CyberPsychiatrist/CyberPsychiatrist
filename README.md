@@ -98,6 +98,7 @@ I'm a passionate Backend developer specializing in Web 3.0 technology solutions.
 - Cross-Branch Banking Management System backed by **HyperLedger Fabric**
 - Keep track of every Action being conducted by STAFF 
 - Keep an Immutable Trail of ACTION-TYPES across Bank Branches
+- Developed at Momentum Labs Internship as a Software Engineer
 
 ### 🧠 Hedges Care
 **AI-Powered & NFT Based Plant Detector Platform**
