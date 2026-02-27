@@ -94,7 +94,7 @@ I'm a passionate Backend developer specializing in Web 3.0 technology solutions.
 
 ### 📊 Fin-Tech
 **Web-3.0 Banking System**
-- [Website](https://branchchain-mvp.vercel.app) • [GitHub](https://github.com/CyberPsychiatrist/Hedges_Care)
+- [Website](https://branchchain-mvp.vercel.app) • [GitHub](https://github.com/CyberPsychiatrist/branchchain-mvp)
 - Cross-Branch Banking Management System backed by **HyperLedger Fabric**
 - Keep track of every Action being conducted by STAFF 
 - Keep an Immutable Trail of ACTION-TYPES across Bank Branches
@@ -106,12 +106,14 @@ I'm a passionate Backend developer specializing in Web 3.0 technology solutions.
 - Integrates AI to detect plants
 - Users can mint Plant images as NFT's
 - Alligned with UNSDG(15) Life On Land
+- Developed as my final project at Power Learn Project Africa(PLP)
 
 ### 🤖 Navio
 **AI Digital Literacy Assistant**
 - [GitHub](https://navio-x.vercel.app/)
 - Natural language processing for Digital literacy
 - Sentiment analysis and emotion detection
+- Developed during my time at PLP
 - Based on UNSDG(5) Gender Equality And Empowerment
 
 ---
