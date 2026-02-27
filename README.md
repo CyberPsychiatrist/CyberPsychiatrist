@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Humphrey "CyberPsychiatrist"
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Full Stack Developer, ML Engineer, Data Anayst & Web 3.0 Enthusiast
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Backend Developer, Data Analyst, AI Ethicist & Web-3.0 Enthusiast
 </h3>
 
 <p align="center">
@@ -94,7 +94,7 @@ I'm a passionate Backend developer specializing in Web 3.0 technology solutions.
 
 ### 📊 Fin-Tech
 **Web-3.0 Banking System**
-- [Website](https://promptbi.ai/) • [GitHub](https://github.com/CyberPsychiatrist/Hedges_Care)
+- [Website](https://branchchain-mvp.vercel.app) • [GitHub](https://github.com/CyberPsychiatrist/Hedges_Care)
 - Cross-Branch Banking Management System backed by **HyperLedger Fabric**
 - Keep track of every Action being conducted by STAFF 
 - Keep an Immutable Trail of ACTION-TYPES across Bank Branches
