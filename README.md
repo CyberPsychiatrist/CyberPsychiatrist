@@ -92,6 +92,13 @@ I'm a passionate full-stack developer specializing in Web 3.0 technology solutio
 
 ## 🔧 Featured Projects
 
+### 📊 Fin-Tech
+**Web-3.0 Banking System**
+- [Website](https://promptbi.ai/) • [GitHub](https://github.com/CyberPsychiatrist/Hedges_Care)
+- Cross-Branch Banking Management System backed by **HyperLedger Fabric**
+- Keep track of every Action being conducted by STAFF 
+- Keep an Immutable Trail of ACTION-TYPES across Bank Branches
+
 ### 🧠 Hedges Care
 **AI-Powered & NFT Based Plant Detector Platform**
 - [Live Demo](https://hedges-care.vercel.app/) • [GitHub](https://github.com/CyberPsychiatrist/Hedges_Care)
@@ -99,13 +106,6 @@ I'm a passionate full-stack developer specializing in Web 3.0 technology solutio
 - Integrates AI to detect plants
 - Users can mint Plant images as NFT's
 - Alligned with UNSDG(15) Life On Land
-
-### 📊 Analytics
-**Data Visualization Dashboard**
-- [Website](https://promptbi.ai/)
-- Use AI to genarate Dashboards 
-- Real-time Data analysis
-- Predictive/Prescriptive analytics
 
 ### 🤖 Navio
 **AI Digital Literacy Assistant**
@@ -131,7 +131,6 @@ I'm a passionate full-stack developer specializing in Web 3.0 technology solutio
 - [ ] Contribute to 10 open-source projects
 - [ ] Write comprehensive technical documentation
 - [ ] Mentor aspiring developers in tech
-- [ ] Speak at 3 conferences about technology
 
 ---
 
