@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Humphrey "CyberPsychiatrist"
+#  Hi, I'm Humphrey "CyberPsychiatrist"
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Backend Developer, Data Analyst, AI Ethicist & Web-3.0 Enthusiast
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Back-end Developer, Data Analyst, AI Ethicist & Web-3.0 Developer && Enthusiast
 </h3>
 
 <p align="center">
@@ -11,24 +11,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate Backend developer specializing in Web 3.0 technology solutions. I combine my technical expertise with a deep understanding of Analytical principles to create innovative digital platforms
 
-### 🔭 Current Focus
-- Building **Hedges Care** - An AI-powered Plant Detector and NFT based platform
-- Developing scalable web applications with Web3,Typescript and React
-- Integrating machine learning tools
-- Creating user-friendly interfaces
-
-### 🌱 Currently Learning
+### Currently Learning
 - Web3 development with React,Typescript & HyperLedger Fabric
 - Advanced AI/ML techniques
 - Advanced Data Analytics
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 <p align="left">
@@ -129,7 +123,7 @@ I'm a passionate Backend developer specializing in Web 3.0 technology solutions.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - [ ] Contribute to 10 open-source projects
 - [ ] Write comprehensive technical documentation
@@ -137,15 +131,15 @@ I'm a passionate Backend developer specializing in Web 3.0 technology solutions.
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - **Portfolio**: [https://cyberpsychiatrist.github.io/Portfolio/](https://cyberpsychiatrist.github.io/Portfolio/)
 
 ---
 
-## 🤝 Open to Collaboration
+##  Open to Collaboration
 
-I'm always interested in collaborating on projects that make a positive impact on mental health and well-being. If you have an idea or need help with a project, feel free to reach out!
+I'm always interested in collaborating on projects that make a positive impact and make distributed systems. If you have an idea or need help with a project, feel free to reach out!
 
 ---
 
